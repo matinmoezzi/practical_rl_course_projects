@@ -1,4 +1,5 @@
 # Practical Reinforcement Learning Course Projects
+### Practical RL Course taught by Higher School of Economics & Coursera
 - Cliff Walking using SARSA
 - Cartpole-v0 using REINFORCE algorithm
 - Cartpole-v0 using Monte Carlo Tree Search
